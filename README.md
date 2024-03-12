@@ -17,3 +17,7 @@ During the Phase 1 the necessary data has been collected.
 4. Collect any other data that helps with your analysis. There is no limitation for anything.
 
 5. Create a new file and keep the above-collected data.
+
+## Phase 2
+
+During the Phase 2 State/UT wise has been performed.
