@@ -19,3 +19,5 @@ It is up to you which columns you want to keep or delete to make proper analysis
 2.5	 Analysis of Population vs overall Crime
 
 2.6	Each state crime report. There is no fixed format to write a report, you can write a report inside the notebook itself based on what you have analyzed in the above points.
+
+The data has been collected from Google and data.world
