@@ -20,4 +20,6 @@ During the Phase 1 the necessary data has been collected.
 
 ## Phase 2
 
-During the Phase 2 State/UT wise has been performed.
+During the Phase 2 State/UT wise has been performed for the different type of crimes.
+
+Each state report has been written down.
