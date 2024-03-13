@@ -23,3 +23,7 @@ During the Phase 1 the necessary data has been collected.
 During the Phase 2 State/UT wise has been performed for the different type of crimes.
 
 Each state report has been written down.
+
+## Phase 3
+
+SQL Operations
