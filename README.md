@@ -27,3 +27,8 @@ Each state report has been written down.
 ## Phase 3
 
 SQL Operations
+
+
+## Phase 4
+
+Unsupervised ML (Clustering)
