@@ -24,12 +24,12 @@ Assumption: You were given various crime datasets that contains all the DISTRICT
 
    Example - 
 
-    1. What is impacting more crimes in sensitive areas. 
+   1. What is impacting more crimes in sensitive areas. 
 
-    2. What needs to be done to reduce crime. 
+   2. What needs to be done to reduce crime. 
 
-    3. Most safe and unsafe districts.
+   3. Most safe and unsafe districts.
 
-    4. Etc.......Anything that you observe (If you want, you can plot various graphs to analyze)"
+   4. Etc.......Anything that you observe (If you want, you can plot various graphs to analyze)"
 
 4.4   Capstone project overall story in your own words. Min 1000 words.
